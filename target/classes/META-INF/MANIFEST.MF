@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: jct-vendor-onboarding
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: azhar.ahmed
+Implementation-Vendor-Id: net.codejava
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/jct-vendor-onboarding
+Created-By: Maven Integration for Eclipse
+
